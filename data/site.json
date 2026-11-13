@@ -9,40 +9,357 @@
     "contact": ""
   },
   "profile": {
-    "korean": "임진희", "english": "JIN HEE IM", "born": "1998.05.24", "country": "대한민국", "pro": "2016년", "lpga": "2024년", "klpgaWins": "6", "lpgaWins": "1",
+    "korean": "임진희",
+    "english": "JIN HEE IM",
+    "born": "1998.05.24",
+    "country": "대한민국",
+    "pro": "2016년",
+    "lpga": "2024년",
+    "klpgaWins": "6",
+    "lpgaWins": "1",
     "bio": "꾸준함과 집중력으로 세계 무대에 도전하는 대한민국의 프로골퍼. KLPGA 투어에서 통산 6승을 기록한 뒤 2024년부터 LPGA 투어에서 활약하고 있습니다.",
     "image": "https://www.lpga.com/-/media/images/lpga/players/i/im/jin-hee/im_jin_hee_hs26_486x486.jpg",
     "imageCredit": "사진 출처: LPGA 공식 선수 프로필 · 게시·재사용 권리 확인 필요"
   },
   "highlights": [
-    {"year":"2025", "title":"LPGA 다우 챔피언십 우승", "detail":"이소미 프로와 팀을 이뤄 LPGA 투어 첫 우승", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/bio"},
-    {"year":"2024", "title":"LPGA 투어 데뷔", "detail":"신인왕 경쟁 2위 · 시즌 톱10 6회", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/bio"},
-    {"year":"2023", "title":"KLPGA 시즌 4승", "detail":"한 시즌 4승을 바탕으로 미국 무대 진출", "source":"https://klpga.co.kr/web/profile/history?playerCode=8890"}
+    {
+      "year": "2026",
+      "title": "메이저 에비앙 챔피언십 Top 4 & LA 챔피언십 준우승",
+      "detail": "LPGA 메이저 대회 개인 최고 성적 경신 및 꾸준한 상위권 활약",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "year": "2025",
+      "title": "LPGA 다우 챔피언십 우승 (LPGA 첫 승)",
+      "detail": "이소미 프로와 팀을 이뤄 연장 접전 끝에 감격의 LPGA 투어 첫 우승",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "year": "2024",
+      "title": "LPGA 투어 데뷔 · 신인왕 레이스 2위",
+      "detail": "더 안니카 드리븐 준우승 포함 시즌 톱10 6회, 루키 시즌 맹활약",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "year": "2023",
+      "title": "KLPGA 시즌 4승 · 다승왕 & 기량발전상 2관왕",
+      "detail": "한 시즌 4승으로 KLPGA 최정상 등극 후 LPGA Q-시리즈 통과",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "year": "2021~2022",
+      "title": "KLPGA 통산 2승 달성",
+      "detail": "BC카드·한경 레이디스컵 생애 첫 우승 및 맥콜·모나파크 오픈 우승",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    }
   ],
   "tournaments": [
-    {"id":"t1", "name":"2026 메이뱅크 챔피언십", "start":"2026-10-29", "end":"2026-11-01", "location":"말레이시아", "status":"종료", "result":"53위 · -4", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/overview"},
-    {"id":"t2", "name":"2026 BMW 레이디스 챔피언십", "start":"2026-10-22", "end":"2026-10-25", "location":"대한민국", "status":"종료", "result":"23위 · -9", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/overview"},
-    {"id":"t3", "name":"2026 롯데 챔피언십", "start":"2026-10-01", "end":"2026-10-04", "location":"미국 하와이", "status":"종료", "result":"13위 · -12", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/overview"},
-    {"id":"t4", "name":"2025 다우 챔피언십", "start":"2025-06-26", "end":"2025-06-29", "location":"미국 미시간", "status":"종료", "result":"우승 · 이소미 공동", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/bio"}
+    {
+      "id": "t1",
+      "name": "2026 메이뱅크 챔피언십",
+      "start": "2026-10-29",
+      "end": "2026-11-01",
+      "location": "말레이시아 쿠알라룸푸르",
+      "status": "종료",
+      "result": "53위 · -4",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t2",
+      "name": "2026 BMW 레이디스 챔피언십",
+      "start": "2026-10-22",
+      "end": "2026-10-25",
+      "location": "대한민국",
+      "status": "종료",
+      "result": "23위 · -9",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t3",
+      "name": "2026 롯데 챔피언십",
+      "start": "2026-10-01",
+      "end": "2026-10-04",
+      "location": "미국 하와이",
+      "status": "종료",
+      "result": "13위 · -12",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t4",
+      "name": "2026 아문디 에비앙 챔피언십 (Major)",
+      "start": "2026-07-11",
+      "end": "2026-07-14",
+      "location": "프랑스 에비앙레뱅",
+      "status": "종료",
+      "result": "공동 4위 · Top 4",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t5",
+      "name": "2026 다우 챔피언십 (Title Defense)",
+      "start": "2026-06-25",
+      "end": "2026-06-28",
+      "location": "미국 미시간",
+      "status": "종료",
+      "result": "공동 3위 · Top 3",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t6",
+      "name": "2026 JM 이글 LA 챔피언십",
+      "start": "2026-04-25",
+      "end": "2026-04-28",
+      "location": "미국 로스앤젤레스",
+      "status": "종료",
+      "result": "준우승 · 연장",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t7",
+      "name": "2026 포티넷 파운더스컵",
+      "start": "2026-03-21",
+      "end": "2026-03-24",
+      "location": "미국 플로리다",
+      "status": "종료",
+      "result": "공동 3위 · Top 3",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t8",
+      "name": "2025 다우 챔피언십 (Dow Championship)",
+      "start": "2025-06-26",
+      "end": "2025-06-29",
+      "location": "미국 미시간",
+      "status": "종료",
+      "result": "🏆 우승 · LPGA 1승",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "id": "t9",
+      "name": "2024 더 안니카 드리븐 (The ANNIKA)",
+      "start": "2024-11-14",
+      "end": "2024-11-17",
+      "location": "미국 플로리다",
+      "status": "종료",
+      "result": "준우승 · 2위",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "t10",
+      "name": "2024 셰브론 챔피언십 (Major)",
+      "start": "2024-04-18",
+      "end": "2024-04-21",
+      "location": "미국 텍사스",
+      "status": "종료",
+      "result": "단독 8위 · Top 10",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    }
   ],
   "posts": [
-    {"id":"p1", "category":"공지", "date":"2026-11-13", "title":"임진희 프로 팬 홈페이지에 오신 것을 환영합니다", "body":"임진희 프로의 도전을 함께 기록하고 응원하는 비공식 팬 커뮤니티입니다. 경기 일정과 결과는 공식 출처를 확인해 업데이트합니다.", "source":""},
-    {"id":"p2", "category":"경기", "date":"2026-11-01", "title":"2026 메이뱅크 챔피언십 결과", "body":"임진희 프로는 메이뱅크 챔피언십을 53위(-4)로 마쳤습니다. 상세 스코어는 LPGA 공식 기록을 참고해 주세요.", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/overview"},
-    {"id":"p3", "category":"기록", "date":"2025-06-29", "title":"LPGA 첫 우승, 다우 챔피언십", "body":"임진희 프로가 이소미 프로와 팀을 이뤄 2025 다우 챔피언십에서 첫 LPGA 우승을 기록했습니다.", "source":"https://www.lpga.com/athletes/jin-hee-im/100380/bio"}
+    {
+      "id": "p-notice-welcome",
+      "category": "공지",
+      "date": "2026-11-13",
+      "title": "임진희 프로 팬 커뮤니티에 오신 것을 환영합니다",
+      "body": "끝없는 노력과 집중력으로 필드를 빛내는 임진희 프로를 응원하는 비공식 팬 아카이브 공간입니다. 경기 일정, 공식 스코어, 갤러리 응원 소식을 실시간으로 전해드립니다.",
+      "source": ""
+    },
+    {
+      "id": "p-2026-evian",
+      "category": "경기",
+      "date": "2026-07-14",
+      "title": "에비앙 챔피언십 메이저 대회 공동 4위 질주!",
+      "body": "프랑스 에비앙레뱅에서 열린 시즌 네 번째 메이저 대회 아문디 에비앙 챔피언십에서 임진희 프로가 정교한 아이언 샷과 침착한 퍼팅을 앞세워 최종 합계 탑4에 올랐습니다. 자신의 LPGA 메이저 최고 성적을 새롭게 경신했습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "p-2026-la",
+      "category": "경기",
+      "date": "2026-04-28",
+      "title": "JM 이글 LA 챔피언십 명승부 끝 연장 준우승",
+      "body": "미국 캘리포니아주 윌셔CC에서 열린 JM 이글 LA 챔피언십에서 18번 홀까지 팽팽한 선두 경쟁을 펼친 끝에 김세영, 한나 그린과 3자 연장 접전을 벌여 값진 준우승을 차지했습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "p-2026-founders",
+      "category": "경기",
+      "date": "2026-03-24",
+      "title": "포티넷 파운더스컵 공동 3위, 2026 시즌 첫 톱10 피니시",
+      "body": "시즌 초반 절정의 샷 감각을 과시하며 파운더스컵에서 공동 3위로 대회를 마쳤습니다. 동계 훈련에서 가다듬은 쇼트게임과 체력 관리가 빛을 발했습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "p-2025-dow-win",
+      "category": "기록",
+      "date": "2025-06-29",
+      "title": "🏆 [감격의 LPGA 첫 우승] 다우 챔피언십 연장 버디로 정상 등극!",
+      "body": "미국 미시간주 미들랜드에서 열린 2인 1조 팀 경기 다우 챔피언십에서 절친 이소미 프로와 함께 최종합계 20언더파로 공동 선두에 오른 뒤, 1차 연장에서 임진희 프로의 짜릿한 중거리 버디 퍼트가 홀컵에 떨어지며 대망의 첫 LPGA 투어 우승 트로피를 들어올렸습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "id": "p-2025-shinhan",
+      "category": "소식",
+      "date": "2025-04-15",
+      "title": "신한금융그룹과 메인 스폰서 후원 계약 체결",
+      "body": "임진희 프로가 대한민국 대표 금융기업 신한금융그룹 골프단과 메인 스폰서 계약을 체결했습니다. 모자에 신한금융그룹 로고를 달고 세계 무대 정상을 향해 힘찬 발걸음을 이어갑니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "p-2024-rookie-runnerup",
+      "category": "기록",
+      "date": "2024-11-18",
+      "title": "LPGA 롤렉스 신인상 2위 & 톱10 6회로 빛난 루키 시즌 피날레",
+      "body": "미국 무대 첫해 총 24개 대회 중 21개 대회 컷 통과, 더 안니카 드리븐 준우승 포함 톱10 6회를 기록하며 신인상 포인트 2위(873점)로 화려하게 첫 시즌을 마무리했습니다. 세계 랭킹도 30위권으로 껑충 뛰어올랐습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "id": "p-2024-annika",
+      "category": "경기",
+      "date": "2024-11-17",
+      "title": "더 안니카 드리븐 준우승 질주, 세계 정상들과 어깨를 나란히",
+      "body": "플로리다에서 열린 안니카 드리븐 최종 라운드에서 날카로운 아이언 샷을 앞세워 넬리 코다 등과 마지막까지 우승 경쟁을 벌인 끝에 단독 2위로 마감, 미국 무대 첫 준우승을 기록했습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "p-2024-chevron",
+      "category": "경기",
+      "date": "2024-04-22",
+      "title": "첫 메이저 셰브론 챔피언십 단독 8위 피니시",
+      "body": "LPGA 시즌 첫 메이저 대회인 셰브론 챔피언십에서 난도 높은 코스 세팅을 극복하고 단독 8위에 오르며 큰 무대에 강한 면모를 유감없이 발휘했습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "id": "p-2024-debut-interview",
+      "category": "소식",
+      "date": "2024-01-24",
+      "title": "LPGA 데뷔전 앞둔 출사표: \"늦깎이 골퍼의 도전, 불가능은 없다\"",
+      "body": "미국 현지 인터뷰에서 임진희 프로는 \"너무나도 절실하게 연습했고 많은 분들의 응원 덕분에 이 자리에 섰다. 신인상과 시즌 1승을 목표로 제 골프에 집중하겠다\"는 당찬 포부를 밝혔습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "id": "p-2023-qseries",
+      "category": "소식",
+      "date": "2023-12-07",
+      "title": "LPGA Q-시리즈 공동 17위 통과, 2024 풀시드 획득 성공!",
+      "body": "지옥의 레이스로 불리는 LPGA 퀄리파잉 시리즈 최종 6라운드 접전 끝에 공동 17위를 기록하며 2024시즌 LPGA 투어 풀시드 카테고리를 당당히 획득했습니다.",
+      "source": "https://www.lpga.com/athletes/jin-hee-im/100380/bio"
+    },
+    {
+      "id": "p-2023-awards",
+      "category": "기록",
+      "date": "2023-11-20",
+      "title": "KLPGA 대상 시상식 다승왕 & 기량발전상 2관왕 영예",
+      "body": "한 해 동안 최고의 활약을 펼친 선수에게 주어지는 KLPGA 대상 시상식에서 시즌 4승으로 다승왕 트로피와 함께 선수 생활 최고의 전환점을 상징하는 기량발전상(MIP)을 동시 수상했습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "id": "p-2023-sk-shieldus",
+      "category": "기록",
+      "date": "2023-11-12",
+      "title": "🏆 최종전 SK쉴더스·SK텔레콤 챔피언십 우승 & 시즌 4승 다승왕 확정!",
+      "body": "라비에벨CC에서 열린 시즌 최종전에서 보기 없이 버디만 5개를 낚으며 최종 합계 16언더파로 우승! 시즌 4승 달성과 함께 상금 11억 4,583만 원을 돌파하며 2023년 KLPGA 다승 1위의 왕관을 썼습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "id": "p-2023-sangsangin",
+      "category": "경기",
+      "date": "2023-10-22",
+      "title": "상상인·한국경제TV 오픈 우승, 시즌 3승 고지 선착",
+      "body": "임진희 프로가 상상인·한경TV 오픈에서 연장 접전 끝에 우승을 차지하며 시즌 3번째 트로피를 품에 안았습니다. 꾸준한 연습과 정교한 퍼팅이 승리의 원동력이었습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "id": "p-2023-samdasoo",
+      "category": "기록",
+      "date": "2023-08-06",
+      "title": "고향 제주에서 삼다수 마스터스 와이어투와이어 감격 우승!",
+      "body": "고향 제주 서귀포 블랙스톤CC에서 열린 제10회 제주삼다수 마스터스에서 1라운드부터 최종 라운드까지 선두를 놓치지 않는 압도적인 와이어투와이어 우승을 달성했습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "id": "p-2023-nh",
+      "category": "경기",
+      "date": "2023-05-14",
+      "title": "NH투자증권 레이디스 챔피언십 우승, 2023 시즌 첫 승 신고",
+      "body": "수원CC에서 열린 NH투자증권 레이디스 챔피언십에서 완벽한 코스 매니지먼트를 선보이며 2023 시즌 마수걸이 우승을 일궈냈습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "id": "p-2022-mccol",
+      "category": "기록",
+      "date": "2022-07-03",
+      "title": "맥콜·모나파크 오픈 우승, KLPGA 통산 2승 달성",
+      "body": "버치힐GC에서 열린 맥콜·모나파크 오픈에서 강풍 속에서도 흔들리지 않는 멘탈로 선두를 지키며 통산 2승째를 신고했습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    },
+    {
+      "id": "p-2021-bc-first-win",
+      "category": "기록",
+      "date": "2021-06-27",
+      "title": "🏆 4년 무명 딛고 일군 눈물의 생애 첫 우승: BC카드·한경 레이디스컵",
+      "body": "포천힐스CC에서 열린 BC카드·한경 레이디스컵 최종 라운드에서 6타를 줄이는 대역전 드라마를 쓰며 생애 첫 정규투어 우승컵을 안았습니다. 우승 인터뷰에서 흘린 감격의 눈물은 많은 골프팬들에게 깊은 감동을 안겼습니다.",
+      "source": "https://klpga.co.kr/web/profile/history?playerCode=8890"
+    }
   ],
   "gallery": [
-    {"id":"g1", "type":"photo", "title":"임진희 프로 공식 프로필", "date":"2026-11-13", "image":"https://www.lpga.com/-/media/images/lpga/players/i/im/jin-hee/im_jin_hee_hs26_486x486.jpg", "link":"https://www.lpga.com/athletes/jin-hee-im/100380/bio", "credit":"LPGA 공식 프로필 · 사진 이용 허락 확인 필요"},
-    {"id":"g2", "type":"video", "title":"2026 다우 챔피언십 파이널 라운드 하이라이트", "date":"2026-06-14", "image":"", "link":"https://www.youtube.com/watch?v=CEbL2iDMO8M", "credit":"LPGA Korea 공식 YouTube"},
-    {"id":"g3", "type":"video", "title":"LPGA 공식 뉴스 & 영상 모아보기", "date":"2026-11-13", "image":"", "link":"https://www.lpga.com/athletes/jin-hee-im/100380/media", "credit":"LPGA 공식 미디어"}
+    {
+      "id": "g1",
+      "type": "photo",
+      "title": "임진희 프로 공식 프로필",
+      "date": "2026-11-13",
+      "image": "https://www.lpga.com/-/media/images/lpga/players/i/im/jin-hee/im_jin_hee_hs26_486x486.jpg",
+      "link": "https://www.lpga.com/athletes/jin-hee-im/100380/bio",
+      "credit": "LPGA 공식 프로필 · 사진 이용 허락 확인 필요"
+    },
+    {
+      "id": "g2",
+      "type": "video",
+      "title": "2026 다우 챔피언십 파이널 라운드 하이라이트",
+      "date": "2026-06-14",
+      "image": "",
+      "link": "https://www.youtube.com/watch?v=CEbL2iDMO8M",
+      "credit": "LPGA Korea 공식 YouTube"
+    },
+    {
+      "id": "g3",
+      "type": "video",
+      "title": "LPGA 공식 뉴스 & 영상 모아보기",
+      "date": "2026-11-13",
+      "image": "",
+      "link": "https://www.lpga.com/athletes/jin-hee-im/100380/media",
+      "credit": "LPGA 공식 미디어"
+    }
   ],
   "cheers": [
-    {"id":"c1", "name":"팬 운영진", "date":"2026-11-13", "message":"오늘도 임진희 프로의 모든 샷을 응원합니다! 💚"},
-    {"id":"c2", "name":"임진희 팬", "date":"2026-11-13", "message":"매 대회 최선을 다하는 모습, 언제나 응원하겠습니다."}
+    {
+      "id": "c1",
+      "name": "팬 운영진",
+      "date": "2026-11-13",
+      "message": "오늘도 임진희 프로의 모든 샷을 응원합니다! 💚"
+    },
+    {
+      "id": "c2",
+      "name": "임진희 팬",
+      "date": "2026-11-13",
+      "message": "매 대회 최선을 다하는 모습, 언제나 응원하겠습니다."
+    }
   ],
   "links": [
-    {"label":"LPGA 공식 프로필", "url":"https://www.lpga.com/athletes/jin-hee-im/100380/overview"},
-    {"label":"LPGA 경기 기록", "url":"https://www.lpga.com/athletes/jin-hee-im/100380/stats"},
-    {"label":"KLPGA 공식 프로필", "url":"https://klpga.co.kr/web/profile/mainRecord?playerCode=8890"},
-    {"label":"LPGA 뉴스 · 영상", "url":"https://www.lpga.com/athletes/jin-hee-im/100380/media"}
+    {
+      "label": "LPGA 공식 프로필",
+      "url": "https://www.lpga.com/athletes/jin-hee-im/100380/overview"
+    },
+    {
+      "label": "LPGA 경기 기록",
+      "url": "https://www.lpga.com/athletes/jin-hee-im/100380/stats"
+    },
+    {
+      "label": "KLPGA 공식 프로필",
+      "url": "https://klpga.co.kr/web/profile/mainRecord?playerCode=8890"
+    },
+    {
+      "label": "LPGA 뉴스 · 영상",
+      "url": "https://www.lpga.com/athletes/jin-hee-im/100380/media"
+    }
   ]
 }

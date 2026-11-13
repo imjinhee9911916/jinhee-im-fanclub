@@ -1,7 +1,7 @@
 'use strict';
 const $ = s => document.querySelector(s);
 const $$ = s => Array.from(document.querySelectorAll(s));
-const safeUrl = url => { try { const u = new URL(url); return ['https:', 'http:'].includes(u.protocol) ? u.href : ''; } catch {return '';} };
+const safeUrl = url => { if (!url) return ''; if (url.startsWith('assets/') || url.startsWith('./') || url.startsWith('/')) return url; try { const u = new URL(url); return ['https:', 'http:'].includes(u.protocol) ? u.href : ''; } catch {return '';} };
 const escapeHtml = str => String(str ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmtDate = d => /^\d{4}-\d{2}-\d{2}$/.test(d||'') ? d.replace(/-/g,'.') : escapeHtml(d);
 let data; let newsCategory='전체', tourCategory='all';

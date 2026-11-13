@@ -18,8 +18,8 @@
     "klpgaWins": "6",
     "lpgaWins": "1",
     "bio": "꾸준함과 집중력으로 세계 무대에 도전하는 대한민국의 프로골퍼. KLPGA 투어에서 통산 6승을 기록한 뒤 2024년부터 LPGA 투어에서 활약하고 있습니다.",
-    "image": "assets/photos/jinhee_wave_umbrella.jpg",
-    "imageCredit": "임진희 프로 팬클럽 갤러리 직관 아카이브"
+    "image": "assets/photos/jinhee_pink_studio_profile.jpg",
+    "imageCredit": "임진희 프로 공식 스튜디오 프로필"
   },
   "highlights": [
     {
@@ -302,6 +302,96 @@
     }
   ],
   "gallery": [
+    {
+      "id": "g-new-1",
+      "type": "photo",
+      "title": "화사한 미소의 공식 스튜디오 프로필",
+      "date": "2026.02",
+      "image": "assets/photos/jinhee_pink_studio_profile.jpg",
+      "link": "assets/photos/jinhee_pink_studio_profile.jpg",
+      "credit": "공식 스튜디오 화보"
+    },
+    {
+      "id": "g-new-2",
+      "type": "photo",
+      "title": "팬들을 심쿵하게 만드는 볼콕 포즈",
+      "date": "2026.02",
+      "image": "assets/photos/jinhee_pink_cute_cheek.jpg",
+      "link": "assets/photos/jinhee_pink_cute_cheek.jpg",
+      "credit": "스튜디오 비하인드 컷"
+    },
+    {
+      "id": "g-new-3",
+      "type": "photo",
+      "title": "클럽을 들고 환하게 웃는 전신 화보",
+      "date": "2026.02",
+      "image": "assets/photos/jinhee_pink_fullbody.jpg",
+      "link": "assets/photos/jinhee_pink_fullbody.jpg",
+      "credit": "공식 스튜디오 화보"
+    },
+    {
+      "id": "g-new-4",
+      "type": "photo",
+      "title": "필드 위 기분 좋은 승리의 브이(V)",
+      "date": "2026.08",
+      "image": "assets/photos/jinhee_field_peace_smile.jpg",
+      "link": "assets/photos/jinhee_field_peace_smile.jpg",
+      "credit": "갤러리 현장 스케치"
+    },
+    {
+      "id": "g-new-5",
+      "type": "photo",
+      "title": "카리스마 넘치는 역동적인 드라이버 백스윙",
+      "date": "2026.05",
+      "image": "assets/photos/jinhee_power_backswing.jpg",
+      "link": "assets/photos/jinhee_power_backswing.jpg",
+      "credit": "LPGA 투어 현장"
+    },
+    {
+      "id": "g-new-6",
+      "type": "photo",
+      "title": "푸른 하늘을 가르는 시원한 티샷",
+      "date": "2026.05",
+      "image": "assets/photos/jinhee_sky_drive.jpg",
+      "link": "assets/photos/jinhee_sky_drive.jpg",
+      "credit": "갤러리 직관 샷"
+    },
+    {
+      "id": "g-new-7",
+      "type": "photo",
+      "title": "홀컵을 응시하는 날카로운 아이언 피니시",
+      "date": "2026.06",
+      "image": "assets/photos/jinhee_iron_finish.jpg",
+      "link": "assets/photos/jinhee_iron_finish.jpg",
+      "credit": "LPGA 투어 현장"
+    },
+    {
+      "id": "g-new-8",
+      "type": "photo",
+      "title": "K-골프를 빛내는 주역들 스페셜 포스터",
+      "date": "2024.09",
+      "image": "assets/photos/jinhee_korea_golf_poster.jpg",
+      "link": "assets/photos/jinhee_korea_golf_poster.jpg",
+      "credit": "공식 미디어 포스터"
+    },
+    {
+      "id": "g-new-9",
+      "type": "photo",
+      "title": "그린 위 신중한 볼 마킹과 퍼팅 라인 체크",
+      "date": "2023.10",
+      "image": "assets/photos/jinhee_ankang_pink_putt.jpg",
+      "link": "assets/photos/jinhee_ankang_pink_putt.jpg",
+      "credit": "KLPGA 투어 현장"
+    },
+    {
+      "id": "g-new-10",
+      "type": "photo",
+      "title": "임진희 프로 공식 인스타그램 피드",
+      "date": "2026.02",
+      "image": "assets/photos/jinhee_instagram_feed.jpg",
+      "link": "assets/photos/jinhee_instagram_feed.jpg",
+      "credit": "공식 SNS 아카이브"
+    },
     {
       "id": "g-p1",
       "type": "photo",

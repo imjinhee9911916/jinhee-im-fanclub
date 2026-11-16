@@ -55,6 +55,17 @@
   ],
   "tournaments": [
     {
+      "id": "t12",
+      "name": "2026 CME 그룹 투어 챔피언십",
+      "start": "2026-11-19",
+      "end": "2026-11-22",
+      "location": "미국 플로리다 네이플스",
+      "status": "예정",
+      "result": "출전 확정",
+      "note": "CME 글로브 포인트 14위로 60명 엔트리 확정 · 총상금 1,100만 달러(우승 400만 달러) · 컷오프 없이 4라운드 · 티버론 골프클럽(Ritz-Carlton Golf Resort)",
+      "source": "https://www.lpga.com/tournaments/cme-group-tour-championship/entries"
+    },
+    {
       "id": "t11",
       "name": "2026 더 안니카 드리븐 바이 게인브리지 at Pelican",
       "start": "2026-11-12",
@@ -167,6 +178,14 @@
     }
   ],
   "posts": [
+    {
+      "id": "p-2026-cme-qualified",
+      "category": "소식",
+      "date": "2026-11-16",
+      "title": "시즌 최종전 CME 그룹 투어 챔피언십 출전 확정 — CME 글로브 포인트 14위",
+      "body": "임진희 프로가 2026 시즌 LPGA 투어 최종전인 CME 그룹 투어 챔피언십 출전을 확정했습니다. 시즌 포인트 레이스인 CME 글로브 포인트 14위로, 상위 60명에게 주어지는 최종전 출전권을 당당히 손에 넣었습니다. 대회는 현지시간 11월 19일(목)부터 22일(일)까지 나흘간 미국 플로리다 네이플스의 티버론 골프클럽(리츠칼튼 골프 리조트)에서 열립니다. 컷오프 없이 4라운드 72홀로 치러지고, 총상금 1,100만 달러·우승 상금 400만 달러가 걸린 시즌 마지막 무대입니다. 더 안니카 드리븐 바이 게인브리지에서 공동 37위로 정규 시즌을 마친 뒤 맞는 최종전인 만큼, 한 해의 마지막 스윙까지 함께 응원해 주세요. 티타임과 라운드 결과는 확정되는 대로 이곳에서 가장 빠르게 전해드리겠습니다.",
+      "source": "https://www.lpga.com/tournaments/cme-group-tour-championship/entries"
+    },
     {
       "id": "p-2026-annika-final",
       "category": "경기",

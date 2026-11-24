@@ -16,6 +16,7 @@
 .history-card-inner{display:grid;grid-template-columns:minmax(0,1fr) 270px;gap:26px;background:#fff;border:1px solid #e2e9df;border-radius:14px;padding:26px 28px;transition:transform .2s,box-shadow .2s}
 .history-card-inner:hover{transform:translateY(-2px);box-shadow:0 14px 28px #0c291914}
 .history-card-inner.no-photo{grid-template-columns:minmax(0,1fr)}
+.history-card-inner.no-photo .history-main{max-width:860px}
 .history-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:9px}
 .history-year{font-size:26px;font-weight:900;letter-spacing:-.06em;color:#1b4438;line-height:1}
 .history-date{font-size:12px;font-weight:800;color:#7b8f6a}
